@@ -2437,6 +2437,11 @@ get-tsconfig@^4.7.0:
   dependencies:
     resolve-pkg-maps "^1.0.0"
 
+github-automated-repos@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/github-automated-repos/-/github-automated-repos-1.1.1.tgz#a9622b1adbfe6dfdb6e335efe095199314fa8590"
+  integrity sha512-4WNBl18yYkXx4JtY3TJl0OGsR7WJP2m2hXXetOEBPmZ8j5hds2HyArq1ZtbwHTm2/+ejT3JrScdQQ+o03RJlBA==
+
 glob-parent@^5.1.2, glob-parent@~5.1.2:
   version "5.1.2"
   resolved "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz"
